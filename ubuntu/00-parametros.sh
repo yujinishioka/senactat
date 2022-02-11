@@ -50,7 +50,7 @@ export DEBIAN_FRONTEND="noninteractive"
 # Declarando as variáveis utilizadas nas configurações de Rede do Servidor Ubuntu 
 #
 # Variável do Usuário padrão utilizado no Servidor Ubuntu desse curso
-USUARIODEFAULT="vaamonde"
+USUARIODEFAULT="senac"
 #
 # Variável da Senha padrão utilizado no Servidor Ubuntu desse curso
 SENHADEFAULT="123@senac"
